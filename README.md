@@ -1,5 +1,4 @@
 # 解析 Promise 原理，实现一个Promise
-[TOC]
 ### 概述
 这篇文章旨在解析 Promise的异步实现原理，并且以 ES6中的 Promise 为蓝本实现一个简单的 Promise。
 
